@@ -1,2 +1,2 @@
-# backend_practice
-Backend practice with Django
+# Backend-Django-CRUD-Tutorial
+Routing and CRUD tutorial using Django
